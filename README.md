@@ -11,8 +11,11 @@ Projects done in 2020 during COVID-19:
 
 <img src="https://i.imgur.com/jPkfUCK.png"/>
 
-Some of the projects I've done:
-* BoostedMMO (https://boostedmmo.com)
+Some of the projects I've done (highlights):
+* <a href="https://boostedmmo.com" target="_blank">BoostedMMO</a> 
+* <a href="https://yetigp.com" target="_blank">YetiGP</a> 
+* <a href="https://vickiesgold.com/" target="_blank">VickiesGold</a> 
+* <a href="https://safesoundrs.com/" target="_blank">Safe & Sound</a> 
 
 
 ## About
