@@ -7,6 +7,10 @@ Overview of what I do:
 *  Blockchain: 6 months of R&D using solidity, developing smart contracts and implementation of IPFS and smart contracts alongside IoT devices
 
 
+Projects done in 2020 during COVID-19:
+<img src="https://i.imgur.com/jPkfUCK.png"/>
+
+
 ## About
 * 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
 * 📫 Contact: devhassanjawhar@gmail.com / UKF#1337 (427037411021815808)
