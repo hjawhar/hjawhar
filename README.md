@@ -1,10 +1,13 @@
-👋 Hi, I’m Hassan with double s from 🇱🇧
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Hassan with double s.
 
-<!---
-hjawhar/hjawhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Overview of what I do:
+## Software Engineering
+*  UI/UX: I've been working using the latest frontend technologies (angular/react/vue) and creating real world applications (consumer & client ones) based on ideas and designs
+*  Backend: I've been using node mainly, alongside MongoDB, SQL & GraphQL resulting 25+ CMS dedicated to sell digital goods for games and other misc. items demonstrating 3rd party payment processors integration and statistical analysis and administrational panel visualizing data for the client
+*  Blockchain: 6 months of R&D using solidity, developing smart contracts and implementation of IPFS and smart contracts alongside IoT devices
+
+
+## About
+* 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
+* 📫 Contact: devhassanjawhar@gmail.com
+
