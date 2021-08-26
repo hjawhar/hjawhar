@@ -11,6 +11,9 @@ Projects done in 2020 during COVID-19:
 
 <img src="https://i.imgur.com/jPkfUCK.png"/>
 
+Some of the projects I've done:
+* BoostedMMO (https://boostedmmo.com)
+
 
 ## About
 * 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
