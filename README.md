@@ -8,6 +8,7 @@ Overview of what I do:
 
 
 Projects done in 2020 during COVID-19:
+
 <img src="https://i.imgur.com/jPkfUCK.png"/>
 
 
