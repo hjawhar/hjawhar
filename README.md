@@ -11,12 +11,6 @@ Projects done in 2020 during COVID-19:
 
 <img src="https://i.imgur.com/jPkfUCK.png"/>
 
-Some of the projects I've done (highlights):
-* <a href="https://boostedmmo.com">BoostedMMO</a> 
-* <a href="https://yetigp.com">YetiGP</a> 
-* <a href="https://vickiesgold.com/">VickiesGold</a> 
-* <a href="https://safesoundrs.com/">Safe & Sound</a> 
-
 
 ## About
 * 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
