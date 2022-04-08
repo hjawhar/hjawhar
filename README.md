@@ -2,17 +2,17 @@
 
 Overview of what I do:
 ## Software Engineering
-*  UI/UX: I've been working using the latest frontend technologies (angular/react/vue) and creating real world applications (consumer & client ones) based on ideas and designs
-*  Backend: I've been using node mainly, alongside MongoDB, SQL & GraphQL resulting 25+ CMS dedicated to sell digital goods for games and other misc. items demonstrating 3rd party payment processors integration and statistical analysis and administrational panel visualizing data for the client
-*  Blockchain: 6 months of R&D using solidity (2018), developing smart contracts and implementation of IPFS and smart contracts alongside IoT devices, and continue'd developing more projects during early 2020
+* Blockchain: Wrote variety of bots (more info upon request), 6 months of R&D using solidity (2018), developing smart contracts and implementation of IPFS and smart contracts alongside IoT devices, and continue'd developing more projects during early 2020.
+* Backend: I've been using node mainly, alongside MongoDB, SQL & GraphQL resulting 25+ CMS dedicated to sell digital goods for games and other misc. items demonstrating 3rd party payment processors integration and statistical analysis and administrational panel visualizing data for the client
+
+* UI/UX: I've been working using the latest frontend technologies (angular/react/vue) and creating real world applications (consumer & client ones) based on ideas and designs
+
+
+## Contact
+* 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
+* 📫 Contact: hassanjawhar@protonmail.com / UKF#1337 (427037411021815808)
 
 
 Projects done in 2020 during COVID-19:
 
 <img src="https://i.imgur.com/jPkfUCK.png"/>
-
-
-## About
-* 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
-* 📫 Contact: devhassanjawhar@gmail.com / UKF#1337 (427037411021815808)
-
