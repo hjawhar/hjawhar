@@ -10,7 +10,7 @@ Overview of what I do:
 
 ## Contact
 * 👀 Collabs: I’m interested in new technologies and new ideas, I prefer the non-feasible ones to prove that anything could be done.
-* 📫 Contact: hassanjawhar@protonmail.com / UKF#1337 (427037411021815808)
+* 📫 Contact: hassanjawhar@protonmail.com
 
 
 Projects done in 2020 during COVID-19:
