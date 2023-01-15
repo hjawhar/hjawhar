@@ -1,7 +1,7 @@
 👋 Hi, I’m Hassan with double s.
 
 Overview of what I do:
-## Software Engineering
+## Experience
 * Blockchain: Wrote variety of bots (more info upon request), 4 years of R&D, developing smart contracts and implementation of IPFS and smart contracts alongside IoT devices, and continue'd developing more projects during early 2018 to this day.
 * Backend: I've been using node mainly, alongside MongoDB, SQL & GraphQL resulting 25+ CMS dedicated to sell digital goods for games and other misc. items demonstrating 3rd party payment processors integration and statistical analysis and administrational panel visualizing data for the client
 
