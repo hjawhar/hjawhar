@@ -1,61 +1,47 @@
 # Hassan Jawhar
 
-Software Engineer specializing in high-performance systems at the intersection of blockchain infrastructure, MEV, and distributed computing.
+Retired DeFi researcher and protocol developer. Spent years building high-frequency trading infrastructure, MEV systems, and DEX tooling across Solana and EVM chains.
 
-Focused on latency-sensitive trading systems, DeFi platforms, and protocol-level tooling -- primarily in Rust -- across both Solana and EVM ecosystems.
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=000)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+Now focused on what sits underneath: **reverse engineering**, **embedded systems**, and **distributed systems**. Taking apart binaries, writing firmware, building things that talk to each other at the edge.
 
 ---
 
-### Domain Expertise
+### Current Work
 
-**MEV & Trading Infrastructure** -- Backrunners, bundle launchers, DEX aggregators, and volume engines targeting Raydium, Meteora, Jupiter, and PumpFun. Transaction submission through Jito bundles and Flashbots. Real-time event streaming via Yellowstone gRPC (Geyser) and bloXroute BDN.
+**Reverse Engineering** — Binary analysis, firmware extraction, protocol dissection. Spending time inside disassemblers and debuggers understanding how things actually work under the hood.
 
-**DeFi Platforms** -- Full-stack trading platforms with Rust microservice backends (Axum, NATS, Diesel, Redis), Angular/React frontends, and multi-chain workers handling Solana and EVM concurrently. PostgreSQL persistence, JWT auth, WebSocket feeds.
+**Embedded Systems** — Real-time computer vision pipelines for edge hardware, vehicle telemetry over OBD-II, sensor integration. Rust on bare metal and constrained targets.
 
-**Distributed Systems** -- Event-driven microservice architectures using NATS pub/sub and request-reply, with OpenTelemetry tracing, Prometheus metrics, Grafana dashboards, and Kubernetes orchestration.
-
-**Smart Contracts** -- Solidity development and reverse engineering. Simulation contracts for arbitrage, multi-buy, and volume making across EVM chains. Protocol-level integrations with Uniswap, Raydium CLMM, Meteora DAMM/DLMM.
-
-**Privacy Systems** -- Zero-knowledge encrypted messaging with Signal Protocol (libsignal), microservice Rust backend, E2EE with no PII requirements.
+**Distributed Systems** — Event-driven architectures, service discovery, consensus patterns. Building systems that scale horizontally and degrade gracefully.
 
 ---
 
 ### Stack
 
 ```
-Languages    Rust · TypeScript · Solidity · Python
-Backend      Axum · Tokio · Diesel · NATS · Redis · Alloy · Actix
-Frontend     Angular · React · Next.js · Tailwind · Material
-Blockchain   Solana SDK · Yellowstone gRPC · Jito · Jupiter · Raydium
-             ethers.js · Flashbots · Hardhat · Anchor · Metaplex
-Database     PostgreSQL · MongoDB · Redis
-Ops          Docker · Kubernetes · Jenkins · Cloudflare · Tailscale
-Cloud        AWS · Hetzner · Netcup · AliCloud
+Languages       Rust · C · ARM/x86 Assembly · Python
+RE Tooling      Ghidra · radare2 · GDB/LLDB · Frida · objdump · Wireshark
+Embedded        ARM Cortex-M · ESP32 · STM32 · Raspberry Pi · JTAG · UART/SPI/I2C
+Distributed     NATS · gRPC · Protocol Buffers · Raft · CRDTs
+CV / ML         ONNX Runtime · YOLO · ArcFace · PaddleOCR · OpenCV
+Infra           Docker · Kubernetes · Prometheus · Grafana · Jaeger
+Cloud           AWS · Hetzner · Cloudflare · Tailscale
+Database        PostgreSQL · Redis · SQLite
+OS              Linux · FreeRTOS · Zephyr
 ```
+
+---
+
+### Selected Projects
+
+[**perception**](https://github.com/hjawhar/perception) — High-throughput real-time computer vision pipeline — object detection (YOLO), face recognition (SCRFD + ArcFace), and OCR (PaddleOCR) in Rust via ONNX Runtime. Designed for edge deployment on drones, surveillance units, and roadside hardware.
+
+[**makana**](https://github.com/hjawhar/makana) — Live OBD-II vehicle telemetry. Read, record, replay, and visualize real-time car data. Rust backend with a single-file HTML dashboard.
+
+[**irc**](https://github.com/hjawhar/irc) — A modern IRC stack built from scratch in Rust: server, mIRC-style GUI client, and bouncer — all sharing a common protocol crate.
+
+[**distributed-system**](https://github.com/hjawhar/distributed-system) — Distributed system exercising real patterns: service discovery, pub/sub, request-reply, horizontal scaling. Four services over NATS, deployed via Docker Compose or Kubernetes, with full Prometheus/Grafana/Jaeger observability.
+
+---
 
 <sub>hassanjawhar@protonmail.com</sub>
