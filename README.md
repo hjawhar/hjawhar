@@ -16,19 +16,19 @@ Building low-level software — taking apart binaries, writing firmware, designi
 
 ---
 
-### Stack
+### Portfolio
 
-```
-Languages       Rust · C · ARM/x86 Assembly · Python
-RE Tooling      Ghidra · radare2 · GDB/LLDB · Frida · objdump · Wireshark
-Embedded        ARM Cortex-M · ESP32 · STM32 · Raspberry Pi · JTAG · UART/SPI/I2C
-Distributed     NATS · gRPC · Protocol Buffers · Raft · CRDTs
-CV / ML         ONNX Runtime · YOLO · ArcFace · PaddleOCR · OpenCV
-Infra           Docker · Kubernetes · Prometheus · Grafana · Jaeger
-Cloud           AWS · Hetzner · Cloudflare · Tailscale
-Database        PostgreSQL · Redis · SQLite
-OS              Linux · FreeRTOS · Zephyr
-```
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | Rust · C · ARM/x86 Assembly · Python |
+| **Reverse Engineering** | Ghidra · radare2 · GDB/LLDB · Frida · objdump · Wireshark |
+| **Embedded** | ARM Cortex-M · ESP32 · STM32 · Raspberry Pi · JTAG · UART/SPI/I2C |
+| **Distributed Systems** | NATS · gRPC · Protocol Buffers · Raft · CRDTs |
+| **Computer Vision / ML** | ONNX Runtime · YOLO · ArcFace · PaddleOCR · OpenCV |
+| **Infrastructure** | Docker · Kubernetes · Prometheus · Grafana · Jaeger |
+| **Cloud** | AWS · Hetzner · Cloudflare · Tailscale |
+| **Data** | PostgreSQL · Redis · SQLite |
+| **Operating Systems** | Linux · FreeRTOS · Zephyr |
 
 ---
 
