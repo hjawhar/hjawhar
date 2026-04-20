@@ -1,8 +1,8 @@
 # Hassan Jawhar 🇱🇧
 
-Software engineer specializing in **reverse engineering**, **embedded systems**, and **distributed systems**. Background in high-frequency trading infrastructure, MEV systems, and protocol development across Solana and EVM chains.
+Software engineer with over 8 years of expertise in **backend and full-stack development**, **reverse engineering**, **embedded systems**, and **distributed systems**. Specialized in architecting high-performance systems, implementing event-driven architectures, and optimizing for large-scale data operations using Rust, Node.js, TypeScript, and various database technologies.
 
-Building low-level software — taking apart binaries, writing firmware, designing systems that operate reliably at the edge.
+Background in high-frequency trading infrastructure, MEV systems, and protocol development across Solana and EVM chains. Currently building low-level software — taking apart binaries, writing firmware, designing systems that operate reliably at the edge.
 
 ---
 
@@ -20,14 +20,16 @@ Building low-level software — taking apart binaries, writing firmware, designi
 
 | Domain | Technologies |
 |--------|-------------|
-| **Languages** | Rust · C · ARM/x86 Assembly · Python |
+| **Languages** | Rust · C · Python · TypeScript · JavaScript · Golang · Java · C# · ARM/x86 Assembly |
+| **Web & APIs** | Node.js · Express.js · React · Angular · REST · Swagger · Bootstrap |
+| **Messaging & RPC** | NATS · gRPC · Protocol Buffers · RabbitMQ · ZeroMQ |
 | **Reverse Engineering** | Ghidra · radare2 · GDB/LLDB · Frida · objdump · Wireshark |
 | **Embedded** | ARM Cortex-M · ESP32 · STM32 · Raspberry Pi · JTAG · UART/SPI/I2C |
-| **Distributed Systems** | NATS · gRPC · Protocol Buffers · Raft · CRDTs |
 | **Computer Vision / ML** | ONNX Runtime · YOLO · ArcFace · PaddleOCR · OpenCV |
-| **Infrastructure** | Docker · Kubernetes · Prometheus · Grafana · Jaeger |
-| **Cloud** | AWS · Hetzner · Cloudflare · Tailscale |
-| **Data** | PostgreSQL · Redis · SQLite |
+| **Data** | PostgreSQL · Redis · MongoDB · SQLite · Liquibase |
+| **Infrastructure** | Docker · Kubernetes · Prometheus · Grafana · Jaeger · Jenkins |
+| **Cloud** | AWS · Microsoft Azure · Hetzner · Cloudflare · Tailscale |
+| **Design** | Figma · Adobe XD |
 | **Operating Systems** | Linux · FreeRTOS · Zephyr |
 
 ---
