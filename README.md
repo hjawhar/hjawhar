@@ -1,5 +1,11 @@
 # Hassan Jawhar 🇱🇧
 
-Software engineer with over 8 years of expertise in **backend and full-stack development**, **reverse engineering**, **embedded systems**, and **distributed systems**. Specialized in architecting high-performance systems, implementing event-driven architectures, and optimizing for large-scale data operations using Rust, Node.js, TypeScript, and various database technologies.
+Software engineer with over 8 years of experience in **backend and full-stack development**, **distributed systems**, **embedded software**, and **reverse engineering**. I build event-driven architectures and high-throughput data systems, mostly in Python, TypeScript, and Node.js.
 
-Background in high-frequency trading infrastructure, MEV systems, and protocol development across Solana and EVM chains. Currently building low-level software — taking apart binaries, writing firmware, designing systems that operate reliably at the edge.
+### Currently
+
+Pursuing a **Master's in Applied AI**. My focus has shifted to machine learning — model training and evaluation, data pipelines, and applying AI to real systems rather than benchmarks.
+
+### On Rust
+
+I've stopped working with Rust. All of my Rust projects are archived and no longer maintained — they're consolidated in **[rnd-rust](https://github.com/hjawhar/rnd-rust)**, deprecated until further notice. No issues or pull requests.
