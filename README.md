@@ -4,7 +4,7 @@ Software engineer with over 8 years of experience in **backend and full-stack de
 
 ### Currently
 
-Pursuing a **Master's in Applied AI**. My focus has shifted to machine learning — model training and evaluation, data pipelines, and applying AI to real systems rather than benchmarks.
+Pursuing a **Master's in Applied AI**. My focus has shifted to machine learning — model training and evaluation, data pipelines, and applying AI to real systems.
 
 ### On rnd-rust
 
